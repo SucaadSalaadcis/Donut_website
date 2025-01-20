@@ -16,7 +16,7 @@ export default function Section4() {
             {/* left */}
             <div className='flex justify-center mt-20'>
                 <div className='flex flex-col'>
-                    <h1 className='text-3xl font-bold text-[#633c45]'>Why Choose Our Donot's</h1>
+                    <h1 className='text-3xl font-bold text-[#633c45]'>Why Choose Our Donut's</h1>
                     <p className='mt-3 text-gray-500'>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam <br />vulputate velit imperdiet dolor tempor tristique.</p>
 
                     {/* the 4 icons */}
