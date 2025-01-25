@@ -21,7 +21,7 @@ export default function Section4() {
 
                     {/* the 4 icons */}
                     <div className='mt-10'>
-                        {/* the top 2 */}
+                        {/* the top  */}
                         <div className='flex justify-between'>
                             <div>
                                 <TbCar className='text-5xl text-[#633c45]' />
